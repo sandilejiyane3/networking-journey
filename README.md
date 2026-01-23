@@ -1,6 +1,9 @@
 # Networking Journey 🌐
 
-Welcome! This repository documents my networking learning journey as I work toward IT support and networking roles, including foundational knowledge for Cisco CCNA certification.
+Welcome! I'm Sandile Jiyane.  
+I'm transitioning into IT with a focus on IT Support, Networking, and Security.
+
+This repository documents my networking learning journey as I work toward IT support and networking roles, including foundational knowledge for Cisco CCNA certification.
 
 ---
 
